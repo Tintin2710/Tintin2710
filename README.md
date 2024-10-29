@@ -1,9 +1,8 @@
-## About me
+## About me 👧
 - 👋 Hi, I’m haiding, a student in of M2 Bioinformatics at Université Paris-Cité.
--  I’m interested in machine learning, artificial intelligence in science, massive data analysis, drug design, single-cell sequencing, multi-omics analysis.
--  I’m currently learning Bioinformatics.
-- 💞️ I’m looking to internships related to gene sequencing 
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
+- 📚 I’m currently learning Bioinformatics.
+- 💻 I’m interested in machine learning, artificial intelligence in science, massive data analysis, drug design, single-cell sequencing, multi-omics analysis.
+- 👩‍💼 I’m looking to internships related to gene sequencing 
 
 # Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -12,7 +11,7 @@
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://livesql.oracle.com/apex/f?p=590:1:101680018340396:::RP::)
 
 ## Contact Me:
--  [haiding.wang@etu.u-paris.fr](mailto:haiding.wang@etu.u-paris.fr) 😄
+- [haiding.wang@etu.u-paris.fr](mailto:haiding.wang@etu.u-paris.fr) 😄
 
 
 <!---
